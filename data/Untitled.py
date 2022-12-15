@@ -2,7 +2,6 @@
 # coding: utf-8
 import pytest
 import os
-import temperature_plotting as tpl
 
 @pytest.mark.skip(reason="test is bad")
 def test_compute_mean():
